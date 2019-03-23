@@ -1,5 +1,4 @@
 # xkcd_linker_bot
-## A Reddit bot for linking XKCD's
 
 ### What is "xkcd_linker_bot"?
 xkcd_linker_bot is a Reddit bot that links XKCD's if fed an xkcd
